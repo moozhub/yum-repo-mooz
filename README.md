@@ -28,4 +28,6 @@ CentOS / EL7
 
 `sudo yum-config-manager --add-repo=https://raw.githubusercontent.com/moozhub/yum-repo-mooz/master/elmooz.repo`
 
+### Install packages
+
 `sudo yum install signal-desktop`
