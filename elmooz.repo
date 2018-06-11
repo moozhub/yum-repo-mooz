@@ -1,0 +1,10 @@
+[mooz-yum-repo-mooz]
+name=Copr repo for yum-repo-mooz owned by mooz
+baseurl=https://copr-be.cloud.fedoraproject.org/results/mooz/yum-repo-mooz/epel-7-$basearch/
+type=rpm-md
+skip_if_unavailable=True
+gpgcheck=1
+gpgkey=https://copr-be.cloud.fedoraproject.org/results/mooz/yum-repo-mooz/pubkey.gpg
+repo_gpgcheck=0
+enabled=1
+enabled_metadata=1
