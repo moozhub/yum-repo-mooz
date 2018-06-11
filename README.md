@@ -26,6 +26,6 @@ CentOS / EL7
 
 `sudo yum -y install yum-utils`
 
-`sudo yum-config-manager --add-repo=https://copr.fedorainfracloud.org/coprs/mooz/yum-repo-mooz/repo/epel-7/mooz-yum-repo-mooz-epel-7.repo`
+`sudo yum-config-manager --add-repo=https://raw.githubusercontent.com/moozhub/yum-repo-mooz/master/elmooz.repo`
 
 `sudo yum install signal-desktop`
