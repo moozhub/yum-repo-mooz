@@ -17,7 +17,7 @@ Using this repository assumes that you are also using the [EPEL](https://fedorap
 * [kodi-17.6](https://github.com/xbmc/xbmc/tree/Krypton) - Kodi Home Theater Software
 * [openrazer-2.3.1](https://github.com/openrazer/openrazer) - A collection of Linux drivers for Razer devices
 * [polychromatic-0.3.12](https://github.com/lah7/polychromatic) - Graphical front end and tray applet for configuring Razer peripherals on GNU/Linux
-* [rtorrent:0.9.7](https://github.com/rakshasa/rtorrent) - rTorrent BitTorrent client
+* [rtorrent-0.9.7](https://github.com/rakshasa/rtorrent) - rTorrent BitTorrent client
 * [signal-desktop-1.15.0](https://github.com/signalapp/Signal-Desktop) - Signal — Private Messenger for Windows, Mac, and Linux
 * [solaar-0.9.2](https://github.com/pwr/Solaar) - Linux devices manager for the Logitech Unifying Receiver
 
